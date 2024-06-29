@@ -1,0 +1,5 @@
+== HOW TO PLAY HECTOR'S MAZE ==
+
+Use "WASD" to move. Survive as long as possible in the maze while avoiding Hector and his skeleton army.
+
+Press "K" to cast a spell. Casting a spell will temporarily stun Hector in place. Use the spells wisely, as you can only use them 3 times.
